@@ -31,7 +31,7 @@ A real-time, web-based video conferencing application built in Go using WebRTC a
 - **Tools:** Git, Linux/Unix, Ansible, Terraform, Puppet, Postman
 
 <p align="center">
-    <img src="tech.svg" width=350>
+    <img src="tech.svg" width=500>
 </p>
 
 ## 🎨 Fun Fact
