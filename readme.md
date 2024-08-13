@@ -30,7 +30,9 @@ A real-time, web-based video conferencing application built in Go using WebRTC a
 - **Databases:** PostgreSQL, Redis, MongoDB, Neo4j, CockroachDB
 - **Tools:** Git, Linux/Unix, Ansible, Terraform, Puppet, Postman
 
-![My Tech](tech.svg)
+<p align="center">
+    <img src="tech.svg" width=350>
+</p>
 
 ## 🎨 Fun Fact
 
