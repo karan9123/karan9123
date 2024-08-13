@@ -26,9 +26,10 @@ A real-time, web-based video conferencing application built in Go using WebRTC a
 
 - **Languages:** Python, C++, Java, Rust, Go, JavaScript
 - **Cloud:** AWS (EC2, Lambda, S3, Step Functions, Route53, Glue, Cloudformation, EKS), Azure, GCP
+- **Salesforce:** Sales Cloud, Service Cloud, Field Service Lightning, Experience Cloud, Apex, Flows, SOQL, SOSL, Lightning Web Components (LWC), Aura, SFDX
 - **DevOps:** Docker, Kubernetes, Github Actions, Jenkins, Bitbucket
 - **Databases:** PostgreSQL, Redis, MongoDB, Neo4j, CockroachDB
-- **Tools:** Git, Linux/Unix, Ansible, Terraform, Puppet, Postman
+- **Tools:** Apache Kafka, Apache Flink, Git, Linux/Unix, Ansible, Terraform, Puppet, Postman
 
 <p align="center">
     <img src="tech.svg" width=500>
