@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Karan Ahluwalia!
-
 ![Profile Banner](Hero.svg)
 
 ## 🚀 About Me
